@@ -57,7 +57,7 @@ aside {
 
 aside li {
   position: relative;
-  top: 10px;
+  top: 15px;
   margin-right: 20px;
   white-space: normal;
 }
@@ -68,7 +68,7 @@ aside li {
 
 .table {
   position: absolute;
-  margin-top: -170px;
+  margin-top: -200px;
   border-collapse: collapse;
 }
 
